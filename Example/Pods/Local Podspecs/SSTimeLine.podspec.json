@@ -1,0 +1,22 @@
+{
+  "name": "SSTimeLine",
+  "version": "0.1.0",
+  "summary": "A short description of SSTimeLine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SSTimeLine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sam Stone": "samstone920@googlemail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SSTimeLine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSTimeLine/Classes/**/*"
+}

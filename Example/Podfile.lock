@@ -1,0 +1,16 @@
+PODS:
+  - SSTimeLine (0.1.0)
+
+DEPENDENCIES:
+  - SSTimeLine (from `../`)
+
+EXTERNAL SOURCES:
+  SSTimeLine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSTimeLine: b932e1f5674e30185d1e5c9c2e6fde21137f1076
+
+PODFILE CHECKSUM: bee8b5606311b0967b26fa2720c4efc5b4810e38
+
+COCOAPODS: 1.1.0.beta.1

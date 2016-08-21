@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SSTimeLine_Tests' do
+  pod 'SSTimeLine', :path => '../'
+  
+  
+end
